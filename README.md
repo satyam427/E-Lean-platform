@@ -1,4 +1,6 @@
 # E-Lean-platform
 
-![image alt]()
+  
+
+![image alt](https://github.com/satyam427/E-Lean-platform/blob/0681275089149af0ea99da9f2c02d9ee3aac7dc5/Screenshot_3-8-2025_181052_127.0.0.1.jpeg)
 ![image alt](https://github.com/satyam427/E-Lean-platform/blob/7b242b0c1b38bcbb010112114d5ecbb52e490c43/Screenshot_3-8-2025_181149_127.0.0.1.jpeg)
